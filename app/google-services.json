@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593977621277",
+    "project_id": "incivismeaaron",
+    "storage_bucket": "incivismeaaron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593977621277:android:152417a5b137004c667ff4",
+        "android_client_info": {
+          "package_name": "com.example.incivismeaaron"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuUuMAtmvMIeFKTggzQCQlnnhAGkIXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
